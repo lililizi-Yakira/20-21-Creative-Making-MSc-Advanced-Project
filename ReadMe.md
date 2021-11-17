@@ -9,7 +9,7 @@
 
 Fireworks is an immersive third-person exploration game. It encourages people to explore the meaning of life and death. The theme of the game is the Player need to help the ghost of a dead bunny to realize its wishes. Player can explore in the game scene. The main gameplay is to talk to NPCs, pick up materials, and light fireworks. Free roaming is the focus of this work. In this mode, the audience is completely immersed in it, roaming freely in Sci-Fi City from a third-person perspective, fully exploring every detail, and collecting items together with the ghost in the game to complete tasks.
    
-This game project provides players with a scenic and challenging journey. The gameplay is simple, and the player can concentrate on the scene. High-tech and beautiful natural environment co-exist, like a utopia. There are hyperloop suspended in the air, space vehicles, bright glass bars, modern shopping malls, and so on. There are robots, bionics, animals, and plants living here. 
+This game project provides players with a scenic and challenging journey. The gameplay is simple, and the player can concentrate on the scene. There are hyperloop suspended in the air, space vehicles, bright glass bars, modern shopping malls, and so on. There are robots, bionics, animals, and plants living here. High-tech and beautiful natural environment co-exist, like a utopia. 
 
 ### About: 
   - Creator: Yifan Li 20007301
