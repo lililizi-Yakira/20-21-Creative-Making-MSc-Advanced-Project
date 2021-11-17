@@ -23,7 +23,7 @@ This game project provides players with a scenic and challenging journey. The ga
   - Unity 2019.4.18  [Download Unity 2019.4.18](https://unity3d.com/cn/get-unity/download/archive?version=2019)
   
 ### 2. Inspiration: 
-  - Journey(Game, 2012)[wiki](https://en.wikipedia.org/wiki/Journey_(2012_video_game) A single theme to represent the game's emotional arc throughout the story.
+  - Journey(Game, 2012)[wiki](https://en.wikipedia.org/wiki/Journey_(2012_video_game)) A single theme to represent the game's emotional arc throughout the story.
   - No Man’s Sky(Game, 2016) [wiki](https://en.wikipedia.org/wiki/No_Man%27s_Sky) Space setting and background, content design.
   - The Flower We Saw That Day(Anime, 2013) [wiki](https://en.wikipedia.org/wiki/Anohana:_The_Flower_We_Saw_That_Day) Ghosts and unfulfilled wishes.
   - Sky Ladder: The Art of Cai Guo-Qiang(Documentary, 2016) [wiki](https://en.wikipedia.org/wiki/Sky_Ladder:_The_Art_of_Cai_Guo-Qiang) You can use fireworks to make a wish to the gods in the sky.
