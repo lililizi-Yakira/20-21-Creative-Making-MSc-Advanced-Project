@@ -174,9 +174,7 @@ if (count >= 7), it means that the player has collected all seven items. At this
 ### Player.cs
 
 using UnityEngine;
-
 using System.Collections;
-
 using UnityEngine.UI;
 
 public class Player : MonoBehaviour {
