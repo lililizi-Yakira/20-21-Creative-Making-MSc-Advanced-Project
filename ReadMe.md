@@ -14,7 +14,7 @@ This game project provides players with a scenic and challenging journey. The ga
 ### About: 
   - Creator: Yifan Li 20007301
   - Gameplay Demo (7mins): [Youtube Link](https://youtu.be/7sou8W0E_us)
-  - Unity File Download: [Dropbox Link](https://www.dropbox.com/s/om16nv9ei79niyb/u3d-Fireworks.zip?dl=0)
+  - Unity Original Work Download: [Dropbox Link](https://www.dropbox.com/s/om16nv9ei79niyb/u3d-Fireworks.zip?dl=0)
 <img src="https://github.com/lililizi-Yakira/MSc-Advanced-Project-YifanLi/blob/main/Materials/2.jpg?raw=true">
 
 ## I. Preparation
