@@ -15,8 +15,8 @@ This game project provides players with a scenic and challenging journey. The ga
   - Creator: Yifan Li 20007301
   - Gameplay Demo (7mins): [Youtube Link](https://youtu.be/7sou8W0E_us)
   - Unity Original Work Download: [Dropbox Link](https://www.dropbox.com/s/om16nv9ei79niyb/u3d-Fireworks.zip?dl=0)
+  - Mac(macOS) App Download : [Dropbox Link](https://www.dropbox.com/s/2djxz7md9s7afla/Fireworks.app.zip?dl=0)
 <img src="https://github.com/lililizi-Yakira/MSc-Advanced-Project-YifanLi/blob/main/Materials/2.jpg?raw=true">
-  - Mac(os) App Download : [Dropbox Link](https://www.dropbox.com/s/2djxz7md9s7afla/Fireworks.app.zip?dl=0)
 
 ## I. Preparation
 
