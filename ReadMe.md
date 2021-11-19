@@ -16,7 +16,6 @@ This game project provides players with a scenic and challenging journey. The ga
   - Gameplay Demo (7mins): [Youtube Link](https://youtu.be/7sou8W0E_us)
   - Unity Original Work Download: [Dropbox Link](https://www.dropbox.com/s/om16nv9ei79niyb/u3d-Fireworks.zip?dl=0) 1.46GB
   - Builds Download(Win or Mac): [Download Link](https://lililizi-yakira.itch.io/fireworks-yifan-li) 
-<img src="https://github.com/lililizi-Yakira/MSc-Advanced-Project-YifanLi/blob/main/Materials/2.jpg?raw=true">
 
 ## I. Preparation
 
